@@ -1,17 +1,22 @@
-# zapzap
+Um Projeto em flutter em construção(2023) para crição de um clone de whatsapp
 
-A new Flutter project.
+### Como usar ?
 
-## Getting Started
+clone o projeto seja por via *git* ou baixando o projeto:
 
-This project is a starting point for a Flutter application.
+```
+git clone https://github.com/NANAQS/whatsapp-clone-flutter
+```
 
-A few resources to get you started if this is your first Flutter project:
+baixe os pacotes do projeto em sua maquina: 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# whatsapp-clone-flutter
+e por fim, rode projeto em sua maquina com a plataforma escolhida:
+
+
+```
+flutter run
+```
